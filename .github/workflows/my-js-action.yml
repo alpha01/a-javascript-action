@@ -2,7 +2,7 @@ name: My first Javascript Action
 
 on:
   pull_request:
-    types: [labeled]
+   # types: [labeled]
 
 jobs:
   action:
